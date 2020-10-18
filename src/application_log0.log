@@ -1,0 +1,16 @@
+окт 18, 2020 5:12:06 PM Main main
+INFO: Get access parameters
+окт 18, 2020 5:12:07 PM Main main
+INFO: Connected to the Postgres database!
+окт 18, 2020 5:12:27 PM Main main
+INFO: Input certificate
+окт 18, 2020 5:12:27 PM Main main
+INFO: Convert *cer to Base64
+окт 18, 2020 5:12:27 PM Main main
+INFO: Parsing done
+окт 18, 2020 5:12:27 PM Main main
+INFO: SQL data base update
+окт 18, 2020 5:12:27 PM Main main
+INFO: Closing connection and releasing resources...
+окт 18, 2020 5:12:27 PM Main main
+INFO: Programme finished
